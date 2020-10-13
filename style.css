@@ -176,11 +176,11 @@ nav{
 .about-text{
 	font-family: calibri;
 	width: 50%;
+	margin-top: 15px;
 }
 .about-text h1{
 	font-size: 4rem;
 	color:#17d1ac;
-	margin-top: 20px;
 }
 .about-text h2{
 	font-size: 2rem;

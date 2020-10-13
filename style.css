@@ -180,11 +180,12 @@ nav{
 .about-text h1{
 	font-size: 4rem;
 	color:#17d1ac;
+	margin-top: 20px;
 }
 .about-text h2{
 	font-size: 2rem;
 	color:#FFFFFF;
-	font-weight: 400;
+	font-weight: 300;
 }
 .about-text h1,h2{
 	margin: 0px;
